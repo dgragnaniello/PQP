@@ -1,4 +1,4 @@
-# PQP
+# PQP: Perceptual Quality-Preserving black-box attack
 Codebase for reproducing the results in the paper "Perceptual Quality-preserving Black-Box Attack against Deep Learning Image Classifiers". The paper can be found on [arxiv](http://arxiv.org/abs/1902.07776).
 
 ## Requirements
