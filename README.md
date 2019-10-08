@@ -1,6 +1,8 @@
 # PQP: Perceptual Quality-Preserving black-box attack
 Codebase for reproducing the results in the paper "Perceptual Quality-preserving Black-Box Attack against Deep Learning Image Classifiers". The paper can be found on [arxiv](http://arxiv.org/abs/1902.07776).
 
+![teaser](teaser.png)
+
 ## Requirements
 - Python3
 - [TensorFlow](http://www.tensorflow.org/) 1.14 (may work with previous versions, too).
