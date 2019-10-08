@@ -12,7 +12,7 @@ To run the code with default parameters, type:
 ```
 python main.py
 ```
-Modify the main.py file according to your needs: change the network to attack or attack parameters.
+Modify the main.py file according to your needs.
 For any problem or comment, do not hesitate to contact me.
 
 ## Citation
