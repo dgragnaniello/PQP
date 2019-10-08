@@ -4,7 +4,7 @@ Codebase for reproducing the results in the paper "Perceptual Quality-preserving
 ## Requirements
 - Python3
 - [TensorFlow](http://www.tensorflow.org/) 1.14
-- To replicate the results of the paper, [PyTorch](http://pytorch.org) 1.2 is also needed.
+- To replicate the results of the paper, [PyTorch](http://pytorch.org) 1.0 is also needed.
 - We used the PyTorch models and the weights provided [here](http://github.com/huyvnphan/PyTorch-CIFAR10).
 
 ## CIFAR10 test
